@@ -2,7 +2,7 @@
 <resources>
     <string-array name="statusbar">
         <item>Sichtbar (Standard)</item>
-        <item>Sichtbar (eingeblendet)</item>
+        <item>Sichtbar (überblendet)</item>
         <item>Ausgeblendet</item>
     </string-array>
     <string-array name="orientation">
@@ -29,7 +29,7 @@
         <item>Vollständig</item>
     </string-array>
     <string-array name="notifSize">
-        <item>Automatisch</item>
+        <item>Automatisch ermitteln</item>
         <item>32px</item>
         <item>48px</item>
     </string-array>
